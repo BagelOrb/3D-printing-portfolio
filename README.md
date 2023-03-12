@@ -22,6 +22,8 @@ colors show deviations from the nominal extrusion width
 ## Spatially graded gyroid
 The above framework can be used to 3D print functionally graded materials, such as a gyroid structure which exhibits a spatial gradient in the density by varying the thickness of the repeating structure.
 
+This extension of the above method - as well as other extension to my other methods - can be found in ![the applications chapter of my dissertation](https://repository.tudelft.nl/islandora/object/uuid:7b2ddf0f-3e0f-49d8-b425-b6df0b540e32?collection=research).
+
 ![spatially graded gyroid shoe sole](https://user-images.githubusercontent.com/8895761/224528451-1d1aeb96-29bb-4c4d-9357-2a06095fc501.png)
 
 
@@ -106,4 +108,4 @@ The project can be found on ![GitHub](https://github.com/BagelOrb/topic_analysis
 
 ![image](https://user-images.githubusercontent.com/8895761/224532350-34db874e-541b-4cea-923f-724ba3ccf500.png)
 
-a visualization of the most prevalent noun topicsaccording to their specificity score
+a visualization of the most prevalent noun topics, according to their specificity score
